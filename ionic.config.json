@@ -1,0 +1,8 @@
+{
+  "name": "flashlight2",
+  "pro_id":"8fd8908d",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
